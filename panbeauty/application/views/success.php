@@ -1,0 +1,1 @@
+Successfully registered.  Login form is on the top part when you click <a href="<?=site_url('user/login')?>" >here</a> (to login)
